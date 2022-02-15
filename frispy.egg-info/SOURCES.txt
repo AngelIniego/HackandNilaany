@@ -1,0 +1,13 @@
+README.rst
+pyproject.toml
+setup.py
+frispy/__init__.py
+frispy/disc.py
+frispy/environment.py
+frispy/equations_of_motion.py
+frispy/model.py
+frispy/wind.py
+frispy.egg-info/PKG-INFO
+frispy.egg-info/SOURCES.txt
+frispy.egg-info/dependency_links.txt
+frispy.egg-info/top_level.txt
